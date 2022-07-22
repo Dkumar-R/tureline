@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Dental-Care/static/css/main.d25955a7.css",
+    "main.js": "/Dental-Care/static/js/main.0958d75f.js",
+    "static/js/787.2a6e57a0.chunk.js": "/Dental-Care/static/js/787.2a6e57a0.chunk.js",
+    "static/media/cover-bg.jpg": "/Dental-Care/static/media/cover-bg.00b88a9bbe32b077aad6.jpg",
+    "static/media/dental cinik.jpeg": "/Dental-Care/static/media/dental cinik.c25962cc8cb6d5d73cdc.jpeg",
+    "static/media/oral.png": "/Dental-Care/static/media/oral.a3bf35a9bb7cc561d7ea.png",
+    "static/media/tooth.png": "/Dental-Care/static/media/tooth.d521bbb0e37e258106aa.png",
+    "static/media/headache.png": "/Dental-Care/static/media/headache.9aa33d364555e831392d.png",
+    "static/media/drill.png": "/Dental-Care/static/media/drill.3ff500ea76a008ccb4bc.png",
+    "index.html": "/Dental-Care/index.html",
+    "main.d25955a7.css.map": "/Dental-Care/static/css/main.d25955a7.css.map",
+    "main.0958d75f.js.map": "/Dental-Care/static/js/main.0958d75f.js.map",
+    "787.2a6e57a0.chunk.js.map": "/Dental-Care/static/js/787.2a6e57a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d25955a7.css",
+    "static/js/main.0958d75f.js"
+  ]
+}
